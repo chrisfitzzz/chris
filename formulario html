@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oraculo meu carequinha</title>
+</head>
+
+<body>
+    <h1>te amo oraculo</h1>
+
+    <form>
+        <P>nome:<input type="text" value="" id="nome"></p>
+
+        <p>sobrenome:<input tyme="text"></p>
+
+        <P>email:<input type="email" value="" id="email"></P>
+
+        <p>senha:<input type="password" value="" id="senha>"></p>
+
+        <p>mensagem:<input type="text" value="" id="sua mensagem>"></p>
+
+        <p>idade:<input type="date" name="nacimento" id="idade>"></p>
+
+        <p>endereço:<input type="text" name="text"
+
+    </form>
+
+</body>
+
+</html>
