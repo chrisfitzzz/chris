@@ -22,6 +22,8 @@
 
         <p>mensagem:<input type="text" value="" id="sua mensagem>"></p>
 
+        <img src="download.jpeg">
+
         <p>idade:<input type="date" name="nacimento" id="idade>"></p>
 
         <p>endereço:<input type="text" name="text" id="text"></p>
