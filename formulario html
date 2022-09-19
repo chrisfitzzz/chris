@@ -24,7 +24,9 @@
 
         <p>idade:<input type="date" name="nacimento" id="idade>"></p>
 
-        <p>endereço:<input type="text" name="text"
+        <p>endereço:<input type="text" name="text" id="text"></p>
+
+        <p>enviar:<input type="submit" name="enviar" id="enviar"></p>
 
     </form>
 
