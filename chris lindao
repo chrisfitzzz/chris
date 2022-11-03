@@ -1,0 +1,60 @@
+body {
+       background-color: rgb(221, 147, 147);
+}
+
+.wrapper {
+height: 420px;
+width: 654px;
+margin: 50px auto;
+border-radius: 7px 7px 7px 7px;
+-webkit-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
+-moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
+box-shadow: 0px 14px 32px 0px rgba(0,0,0,0,15);
+
+}
+
+ #feijoada{
+    float: left;
+    height: 420px;
+    width: 327px;
+}
+.produtoinfo{
+float: left;
+height: 420px;
+width: 327px;
+border-radius: 0 7px 10px 7px;
+background-color: bisque;
+
+}
+.produtotexto {
+height: 300px;
+width: 327px;
+
+background-color: bisque;
+}
+
+.prudutotexto h1 {
+margin: 0 0 0 38px;
+padding-top: 52px;
+font-size: 34px;
+color:bisque
+}
+
+
+.produtotexto h1,
+.boataopreco p {
+margin: 0 0 47px 38px;
+font-size: 13px;
+font-family: 'benthman',serif;
+font-weight: 400;
+}
+
+.produtotexto h2 {
+
+margin: 0 0 47px 38px;
+font-size: 13px;
+font-family: 'raleway',sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+color:bisque
+}
