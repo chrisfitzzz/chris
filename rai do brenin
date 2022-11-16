@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="atividade.css">
+    <title>Yakisoba</title>
+    </head>
+    <body>
+
+    <div clanss="wrepper">
+
+    <div clanss="produtosimagem">
+
+    <img id="Feijoada" src="lll.jpg" height="360" width="760">
+
+    </div>
+
+        <div clanss="produtoinfo">
+        <div clanss="produtotexto">
+
+
+        <h1>Yakisoba</h1>
+        <h2>O que acompanha?</h2>
+        <P>O molho pode ser adicionado na panela ou no prato na hora de servir, o importante é juntá-lo com o macarrão logo antes de comer, para não perder a crocância.
+        Finalize com cebolinha, gergelim preto ou tofu em cubos.</P>
+    
