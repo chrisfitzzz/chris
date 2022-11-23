@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="atividade.css">
+        <title>Yakisoba</title>
+        </head>
+        <body>
+
+        <div clanss="wrepper">
+
+        <div clanss="produtosimagem">
+
+
+        <img id="Feijoada" src="yakisoba.jpg" height="360" width="700">
+
+        </div>
+
+        <div clanss="produtoinfo">
+        <div clanss="produtotexto">
+
+
+        <h1>yakisoba tradicional- receita toda hora</h1>
+        <h3>40 min·Rendimento: 2 servings</h3>
+        <h4>ingredientes</h4>
+        <P>2 porções de macarrão soba</P>
+        <p>2 cogumelos shitake</p>
+        <P>1 cenoura</P>
+        <P>1 cebola roxa</P>
+        <P>1 cebolinha</P>
